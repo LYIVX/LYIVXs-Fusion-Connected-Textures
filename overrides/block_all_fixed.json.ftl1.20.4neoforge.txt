@@ -1,0 +1,4 @@
+block_all_fixed.json.ftl
+temp_generator/neoforge-1.20.4/templates\json\block_all_fixed.json.ftl
+1.20.4
+neoforge

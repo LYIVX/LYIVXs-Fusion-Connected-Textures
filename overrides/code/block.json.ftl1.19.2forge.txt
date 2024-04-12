@@ -1,0 +1,17 @@
+{
+  "parent": "block/${var_model}",
+  "type": "fusion:connecting",
+   "connections": [
+   {
+     "type": "fusion:is_same_block"
+   }
+  ],
+  "loader": "fusion:model",
+  "textures": {
+    "${var_txname}": "${modid}:block/${data.texture}",
+    "particle": "${modid}:block/${data.particleTexture?has_content?then(data.particleTexture, data.texture)}"
+  }
+  <#if !(data.blockBase?has_content && data.blockBase == "Leaves")>
+  ,"render_type": "${data.getRenderType()}"
+  </#if>
+}

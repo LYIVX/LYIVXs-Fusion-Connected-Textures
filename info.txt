@@ -1,0 +1,6 @@
+LYIVX's Fusion (Connected Textures)
+ls_fusion
+1.6.0
+LYIVX
+A Mcreator Plugin That Adds Fusion
+Made with MCreator plugin builder by NerdyPuzzle

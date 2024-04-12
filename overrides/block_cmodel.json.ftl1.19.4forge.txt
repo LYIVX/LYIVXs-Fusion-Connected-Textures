@@ -1,0 +1,4 @@
+block_cmodel.json.ftl
+temp_generator/forge-1.19.4/templates\json\block_cmodel.json.ftl
+1.19.4
+forge
